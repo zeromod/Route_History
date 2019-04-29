@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Route History</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_route_view">Route</string>
+    <string name="no_data">No routes found. Use right bottom icon to add route.</string>
+    <string name="map_image">Map Image</string>
+    <string name="notes_button">Notes button</string>
+    <string name="trip_notes">Trip Notes</string>
+    <string name="edit">Edit</string>
+    <string name="ok">OK</string>
+</resources>
